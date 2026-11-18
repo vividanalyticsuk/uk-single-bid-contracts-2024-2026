@@ -1,0 +1,12 @@
+regime,regime_label,key,label,lots,procedures,single_bid_lots,single_bid_pct,ci95_low,ci95_high,median_bids
+pa2023,Procurement Act 2023,100k-500k,£100k to £500k,3043,2591,410,13.5,12.3,14.7,4
+pa2023,Procurement Act 2023,2m-10m,£2m to £10m,1338,1154,148,11.1,9.5,12.9,4
+pa2023,Procurement Act 2023,500k-2m,£500k to £2m,2319,2038,271,11.7,10.4,13.1,4
+pa2023,Procurement Act 2023,gte10m,£10m and over,706,549,77,10.9,8.8,13.4,4
+pa2023,Procurement Act 2023,lt100k,Under £100k,1819,1235,245,13.5,12,15.1,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,100k-500k,£100k to £500k,1585,1403,264,16.7,14.9,18.6,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,2m-10m,£2m to £10m,1046,855,118,11.3,9.5,13.3,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,500k-2m,£500k to £2m,1238,1091,150,12.1,10.4,14.1,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,gte10m,£10m and over,691,586,98,14.2,11.8,17,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,lt100k,Under £100k,469,274,108,23,19.4,27,3
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,unpublished,Value not published,3242,2131,629,19.4,18.1,20.8,3

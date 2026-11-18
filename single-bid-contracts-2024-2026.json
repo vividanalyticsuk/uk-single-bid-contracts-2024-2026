@@ -1,0 +1,1363 @@
+{
+  "meta": {
+    "slug": "single-bid-contracts-2024-2026",
+    "windowFrom": "2024-10-01",
+    "windowTo": "2026-10-01",
+    "catalogueLatestRelease": "2026-10-10 10:24:06+00",
+    "generatedAt": "2026-10-14T11:54:10.756Z",
+    "database": "localhost/tenderline"
+  },
+  "headline": [
+    {
+      "regime": "pa2023",
+      "measure": "final",
+      "repeat_placement": false,
+      "lots": 9275,
+      "procedures": 7105,
+      "single": 1849,
+      "median": 3,
+      "pct": 19.9,
+      "lo": 19.1,
+      "hi": 20.8
+    },
+    {
+      "regime": "pa2023",
+      "measure": "received",
+      "repeat_placement": false,
+      "lots": 9256,
+      "procedures": 7104,
+      "single": 1155,
+      "median": 4,
+      "pct": 12.5,
+      "lo": 11.8,
+      "hi": 13.2
+    },
+    {
+      "regime": "pa2023",
+      "measure": "final",
+      "repeat_placement": true,
+      "lots": 387,
+      "procedures": 240,
+      "single": 64,
+      "median": 4,
+      "pct": 16.5,
+      "lo": 13.2,
+      "hi": 20.6
+    },
+    {
+      "regime": "pa2023",
+      "measure": "received",
+      "repeat_placement": true,
+      "lots": 386,
+      "procedures": 240,
+      "single": 36,
+      "median": 5,
+      "pct": 9.3,
+      "lo": 6.8,
+      "hi": 12.6
+    },
+    {
+      "regime": "pcr2015",
+      "measure": "received",
+      "repeat_placement": false,
+      "lots": 8271,
+      "procedures": 6070,
+      "single": 1367,
+      "median": 4,
+      "pct": 16.5,
+      "lo": 15.7,
+      "hi": 17.3
+    },
+    {
+      "regime": "pcr2015",
+      "measure": "received",
+      "repeat_placement": true,
+      "lots": 3234,
+      "procedures": 3167,
+      "single": 191,
+      "median": 12,
+      "pct": 5.9,
+      "lo": 5.1,
+      "hi": 6.8
+    }
+  ],
+  "otherRegimes": [
+    {
+      "regime": "dspcr2011",
+      "measure": "received",
+      "lots": 81,
+      "procedures": 78,
+      "single": 46,
+      "median": 1,
+      "pct": 56.8,
+      "lo": 45.9,
+      "hi": 67
+    },
+    {
+      "regime": "ucr2016",
+      "measure": "received",
+      "lots": 385,
+      "procedures": 358,
+      "single": 148,
+      "median": 2,
+      "pct": 38.4,
+      "lo": 33.7,
+      "hi": 43.4
+    }
+  ],
+  "frameworks": [
+    {
+      "regime": "pa2023",
+      "measure": "final",
+      "lots": 4472,
+      "procedures": 1478,
+      "single": 385,
+      "median": 6,
+      "pct": 8.6,
+      "lo": 7.8,
+      "hi": 9.5
+    },
+    {
+      "regime": "pa2023",
+      "measure": "received",
+      "lots": 4406,
+      "procedures": 1476,
+      "single": 222,
+      "median": 8,
+      "pct": 5,
+      "lo": 4.4,
+      "hi": 5.7
+    },
+    {
+      "regime": "pcr2015",
+      "measure": "received",
+      "lots": 8340,
+      "procedures": 2696,
+      "single": 626,
+      "median": 7,
+      "pct": 7.5,
+      "lo": 7,
+      "hi": 8.1
+    }
+  ],
+  "coverage": [
+    {
+      "regime": "pa2023",
+      "lots": 14658,
+      "with_count": 9642
+    },
+    {
+      "regime": "pcr2015",
+      "lots": 13408,
+      "with_count": 11505
+    }
+  ],
+  "sectors": [
+    {
+      "regime": "pa2023",
+      "key": "34",
+      "lots": 164,
+      "procedures": 137,
+      "single": 37,
+      "median": 3,
+      "pct": 22.6,
+      "lo": 16.8,
+      "hi": 29.5
+    },
+    {
+      "regime": "pa2023",
+      "key": "45",
+      "lots": 1190,
+      "procedures": 984,
+      "single": 73,
+      "median": 6,
+      "pct": 6.1,
+      "lo": 4.9,
+      "hi": 7.6
+    },
+    {
+      "regime": "pa2023",
+      "key": "48",
+      "lots": 182,
+      "procedures": 167,
+      "single": 15,
+      "median": 5,
+      "pct": 8.2,
+      "lo": 5.1,
+      "hi": 13.2
+    },
+    {
+      "regime": "pa2023",
+      "key": "50",
+      "lots": 521,
+      "procedures": 403,
+      "single": 72,
+      "median": 4,
+      "pct": 13.8,
+      "lo": 11.1,
+      "hi": 17
+    },
+    {
+      "regime": "pa2023",
+      "key": "55",
+      "lots": 265,
+      "procedures": 199,
+      "single": 25,
+      "median": 4,
+      "pct": 9.4,
+      "lo": 6.5,
+      "hi": 13.6
+    },
+    {
+      "regime": "pa2023",
+      "key": "60",
+      "lots": 316,
+      "procedures": 118,
+      "single": 66,
+      "median": 3,
+      "pct": 20.9,
+      "lo": 16.8,
+      "hi": 25.7
+    },
+    {
+      "regime": "pa2023",
+      "key": "66",
+      "lots": 359,
+      "procedures": 143,
+      "single": 88,
+      "median": 3,
+      "pct": 24.5,
+      "lo": 20.3,
+      "hi": 29.2
+    },
+    {
+      "regime": "pa2023",
+      "key": "71",
+      "lots": 571,
+      "procedures": 467,
+      "single": 42,
+      "median": 6,
+      "pct": 7.4,
+      "lo": 5.5,
+      "hi": 9.8
+    },
+    {
+      "regime": "pa2023",
+      "key": "72",
+      "lots": 329,
+      "procedures": 313,
+      "single": 24,
+      "median": 5,
+      "pct": 7.3,
+      "lo": 5,
+      "hi": 10.6
+    },
+    {
+      "regime": "pa2023",
+      "key": "73",
+      "lots": 160,
+      "procedures": 126,
+      "single": 17,
+      "median": 4,
+      "pct": 10.6,
+      "lo": 6.7,
+      "hi": 16.4
+    },
+    {
+      "regime": "pa2023",
+      "key": "77",
+      "lots": 195,
+      "procedures": 108,
+      "single": 18,
+      "median": 5,
+      "pct": 9.2,
+      "lo": 5.9,
+      "hi": 14.1
+    },
+    {
+      "regime": "pa2023",
+      "key": "79",
+      "lots": 925,
+      "procedures": 776,
+      "single": 81,
+      "median": 5,
+      "pct": 8.8,
+      "lo": 7.1,
+      "hi": 10.8
+    },
+    {
+      "regime": "pa2023",
+      "key": "80",
+      "lots": 419,
+      "procedures": 327,
+      "single": 73,
+      "median": 4,
+      "pct": 17.4,
+      "lo": 14.1,
+      "hi": 21.3
+    },
+    {
+      "regime": "pa2023",
+      "key": "85",
+      "lots": 1124,
+      "procedures": 867,
+      "single": 162,
+      "median": 4,
+      "pct": 14.4,
+      "lo": 12.5,
+      "hi": 16.6
+    },
+    {
+      "regime": "pa2023",
+      "key": "90",
+      "lots": 757,
+      "procedures": 544,
+      "single": 104,
+      "median": 4,
+      "pct": 13.7,
+      "lo": 11.5,
+      "hi": 16.4
+    },
+    {
+      "regime": "pa2023",
+      "key": "98",
+      "lots": 199,
+      "procedures": 162,
+      "single": 44,
+      "median": 3,
+      "pct": 22.1,
+      "lo": 16.9,
+      "hi": 28.4
+    },
+    {
+      "regime": "pcr2015",
+      "key": "33",
+      "lots": 159,
+      "procedures": 117,
+      "single": 35,
+      "median": 3,
+      "pct": 22,
+      "lo": 16.3,
+      "hi": 29.1
+    },
+    {
+      "regime": "pcr2015",
+      "key": "34",
+      "lots": 211,
+      "procedures": 102,
+      "single": 32,
+      "median": 3,
+      "pct": 15.2,
+      "lo": 11,
+      "hi": 20.6
+    },
+    {
+      "regime": "pcr2015",
+      "key": "45",
+      "lots": 722,
+      "procedures": 558,
+      "single": 97,
+      "median": 4,
+      "pct": 13.4,
+      "lo": 11.1,
+      "hi": 16.1
+    },
+    {
+      "regime": "pcr2015",
+      "key": "48",
+      "lots": 156,
+      "procedures": 148,
+      "single": 19,
+      "median": 4,
+      "pct": 12.2,
+      "lo": 7.9,
+      "hi": 18.2
+    },
+    {
+      "regime": "pcr2015",
+      "key": "50",
+      "lots": 665,
+      "procedures": 436,
+      "single": 76,
+      "median": 4,
+      "pct": 11.4,
+      "lo": 9.2,
+      "hi": 14.1
+    },
+    {
+      "regime": "pcr2015",
+      "key": "60",
+      "lots": 226,
+      "procedures": 128,
+      "single": 68,
+      "median": 2,
+      "pct": 30.1,
+      "lo": 24.5,
+      "hi": 36.4
+    },
+    {
+      "regime": "pcr2015",
+      "key": "66",
+      "lots": 331,
+      "procedures": 139,
+      "single": 33,
+      "median": 3,
+      "pct": 10,
+      "lo": 7.2,
+      "hi": 13.7
+    },
+    {
+      "regime": "pcr2015",
+      "key": "71",
+      "lots": 400,
+      "procedures": 370,
+      "single": 44,
+      "median": 5,
+      "pct": 11,
+      "lo": 8.3,
+      "hi": 14.4
+    },
+    {
+      "regime": "pcr2015",
+      "key": "72",
+      "lots": 341,
+      "procedures": 318,
+      "single": 41,
+      "median": 4,
+      "pct": 12,
+      "lo": 9,
+      "hi": 15.9
+    },
+    {
+      "regime": "pcr2015",
+      "key": "77",
+      "lots": 217,
+      "procedures": 126,
+      "single": 25,
+      "median": 4,
+      "pct": 11.5,
+      "lo": 7.9,
+      "hi": 16.5
+    },
+    {
+      "regime": "pcr2015",
+      "key": "79",
+      "lots": 657,
+      "procedures": 545,
+      "single": 89,
+      "median": 5,
+      "pct": 13.5,
+      "lo": 11.1,
+      "hi": 16.4
+    },
+    {
+      "regime": "pcr2015",
+      "key": "80",
+      "lots": 320,
+      "procedures": 222,
+      "single": 72,
+      "median": 3,
+      "pct": 22.5,
+      "lo": 18.3,
+      "hi": 27.4
+    },
+    {
+      "regime": "pcr2015",
+      "key": "85",
+      "lots": 1629,
+      "procedures": 1158,
+      "single": 365,
+      "median": 3,
+      "pct": 22.4,
+      "lo": 20.4,
+      "hi": 24.5
+    },
+    {
+      "regime": "pcr2015",
+      "key": "90",
+      "lots": 557,
+      "procedures": 400,
+      "single": 73,
+      "median": 4,
+      "pct": 13.1,
+      "lo": 10.6,
+      "hi": 16.2
+    },
+    {
+      "regime": "pcr2015",
+      "key": "98",
+      "lots": 166,
+      "procedures": 127,
+      "single": 35,
+      "median": 2,
+      "pct": 21.1,
+      "lo": 15.6,
+      "hi": 27.9
+    }
+  ],
+  "buyerTypes": [
+    {
+      "regime": "pa2023",
+      "key": "central_government",
+      "lots": 1870,
+      "procedures": 1437,
+      "single": 313,
+      "median": 3,
+      "pct": 16.7,
+      "lo": 15.1,
+      "hi": 18.5
+    },
+    {
+      "regime": "pa2023",
+      "key": "charity",
+      "lots": 151,
+      "procedures": 130,
+      "single": 12,
+      "median": 6,
+      "pct": 7.9,
+      "lo": 4.6,
+      "hi": 13.4
+    },
+    {
+      "regime": "pa2023",
+      "key": "education",
+      "lots": 763,
+      "procedures": 656,
+      "single": 52,
+      "median": 5,
+      "pct": 6.8,
+      "lo": 5.2,
+      "hi": 8.8
+    },
+    {
+      "regime": "pa2023",
+      "key": "housing",
+      "lots": 213,
+      "procedures": 122,
+      "single": 15,
+      "median": 4,
+      "pct": 7,
+      "lo": 4.3,
+      "hi": 11.3
+    },
+    {
+      "regime": "pa2023",
+      "key": "local_authority",
+      "lots": 3985,
+      "procedures": 3177,
+      "single": 559,
+      "median": 4,
+      "pct": 14,
+      "lo": 13,
+      "hi": 15.1
+    },
+    {
+      "regime": "pa2023",
+      "key": "other_public",
+      "lots": 1891,
+      "procedures": 1272,
+      "single": 156,
+      "median": 5,
+      "pct": 8.2,
+      "lo": 7.1,
+      "hi": 9.6
+    },
+    {
+      "regime": "pa2023",
+      "key": "police_fire",
+      "lots": 229,
+      "procedures": 174,
+      "single": 30,
+      "median": 3,
+      "pct": 13.1,
+      "lo": 9.3,
+      "hi": 18.1
+    },
+    {
+      "regime": "pcr2015",
+      "key": "central_government",
+      "lots": 355,
+      "procedures": 297,
+      "single": 71,
+      "median": 3,
+      "pct": 20,
+      "lo": 16.2,
+      "hi": 24.5
+    },
+    {
+      "regime": "pcr2015",
+      "key": "education",
+      "lots": 803,
+      "procedures": 660,
+      "single": 142,
+      "median": 4,
+      "pct": 17.7,
+      "lo": 15.2,
+      "hi": 20.5
+    },
+    {
+      "regime": "pcr2015",
+      "key": "housing",
+      "lots": 304,
+      "procedures": 197,
+      "single": 18,
+      "median": 4,
+      "pct": 5.9,
+      "lo": 3.8,
+      "hi": 9.2
+    },
+    {
+      "regime": "pcr2015",
+      "key": "local_authority",
+      "lots": 3133,
+      "procedures": 2298,
+      "single": 600,
+      "median": 3,
+      "pct": 19.2,
+      "lo": 17.8,
+      "hi": 20.6
+    },
+    {
+      "regime": "pcr2015",
+      "key": "nhs_health",
+      "lots": 1208,
+      "procedures": 819,
+      "single": 224,
+      "median": 3,
+      "pct": 18.5,
+      "lo": 16.5,
+      "hi": 20.8
+    },
+    {
+      "regime": "pcr2015",
+      "key": "other_public",
+      "lots": 108,
+      "procedures": 82,
+      "single": 15,
+      "median": 3,
+      "pct": 13.9,
+      "lo": 8.6,
+      "hi": 21.7
+    },
+    {
+      "regime": "pcr2015",
+      "key": "police_fire",
+      "lots": 131,
+      "procedures": 119,
+      "single": 29,
+      "median": 3,
+      "pct": 22.1,
+      "lo": 15.9,
+      "hi": 30
+    },
+    {
+      "regime": "pcr2015",
+      "key": "unclassified",
+      "lots": 2208,
+      "procedures": 1581,
+      "single": 268,
+      "median": 4,
+      "pct": 12.1,
+      "lo": 10.8,
+      "hi": 13.6
+    }
+  ],
+  "valueBands": [
+    {
+      "regime": "pa2023",
+      "key": "100k-500k",
+      "lots": 3043,
+      "procedures": 2591,
+      "single": 410,
+      "median": 4,
+      "pct": 13.5,
+      "lo": 12.3,
+      "hi": 14.7
+    },
+    {
+      "regime": "pa2023",
+      "key": "2m-10m",
+      "lots": 1338,
+      "procedures": 1154,
+      "single": 148,
+      "median": 4,
+      "pct": 11.1,
+      "lo": 9.5,
+      "hi": 12.9
+    },
+    {
+      "regime": "pa2023",
+      "key": "500k-2m",
+      "lots": 2319,
+      "procedures": 2038,
+      "single": 271,
+      "median": 4,
+      "pct": 11.7,
+      "lo": 10.4,
+      "hi": 13.1
+    },
+    {
+      "regime": "pa2023",
+      "key": "gte10m",
+      "lots": 706,
+      "procedures": 549,
+      "single": 77,
+      "median": 4,
+      "pct": 10.9,
+      "lo": 8.8,
+      "hi": 13.4
+    },
+    {
+      "regime": "pa2023",
+      "key": "lt100k",
+      "lots": 1819,
+      "procedures": 1235,
+      "single": 245,
+      "median": 4,
+      "pct": 13.5,
+      "lo": 12,
+      "hi": 15.1
+    },
+    {
+      "regime": "pcr2015",
+      "key": "100k-500k",
+      "lots": 1585,
+      "procedures": 1403,
+      "single": 264,
+      "median": 4,
+      "pct": 16.7,
+      "lo": 14.9,
+      "hi": 18.6
+    },
+    {
+      "regime": "pcr2015",
+      "key": "2m-10m",
+      "lots": 1046,
+      "procedures": 855,
+      "single": 118,
+      "median": 4,
+      "pct": 11.3,
+      "lo": 9.5,
+      "hi": 13.3
+    },
+    {
+      "regime": "pcr2015",
+      "key": "500k-2m",
+      "lots": 1238,
+      "procedures": 1091,
+      "single": 150,
+      "median": 4,
+      "pct": 12.1,
+      "lo": 10.4,
+      "hi": 14.1
+    },
+    {
+      "regime": "pcr2015",
+      "key": "gte10m",
+      "lots": 691,
+      "procedures": 586,
+      "single": 98,
+      "median": 4,
+      "pct": 14.2,
+      "lo": 11.8,
+      "hi": 17
+    },
+    {
+      "regime": "pcr2015",
+      "key": "lt100k",
+      "lots": 469,
+      "procedures": 274,
+      "single": 108,
+      "median": 3,
+      "pct": 23,
+      "lo": 19.4,
+      "hi": 27
+    },
+    {
+      "regime": "pcr2015",
+      "key": "unpublished",
+      "lots": 3242,
+      "procedures": 2131,
+      "single": 629,
+      "median": 3,
+      "pct": 19.4,
+      "lo": 18.1,
+      "hi": 20.8
+    }
+  ],
+  "regions": [
+    {
+      "regime": "pa2023",
+      "key": "UKC",
+      "lots": 1020,
+      "procedures": 756,
+      "single": 101,
+      "median": 4,
+      "pct": 9.9,
+      "lo": 8.2,
+      "hi": 11.9
+    },
+    {
+      "regime": "pa2023",
+      "key": "UKD",
+      "lots": 1288,
+      "procedures": 1082,
+      "single": 116,
+      "median": 5,
+      "pct": 9,
+      "lo": 7.6,
+      "hi": 10.7
+    },
+    {
+      "regime": "pa2023",
+      "key": "UKE",
+      "lots": 1093,
+      "procedures": 887,
+      "single": 120,
+      "median": 5,
+      "pct": 11,
+      "lo": 9.3,
+      "hi": 13
+    },
+    {
+      "regime": "pa2023",
+      "key": "UKF",
+      "lots": 1093,
+      "procedures": 915,
+      "single": 116,
+      "median": 5,
+      "pct": 10.6,
+      "lo": 8.9,
+      "hi": 12.6
+    },
+    {
+      "regime": "pa2023",
+      "key": "UKG",
+      "lots": 1082,
+      "procedures": 870,
+      "single": 102,
+      "median": 5,
+      "pct": 9.4,
+      "lo": 7.8,
+      "hi": 11.3
+    },
+    {
+      "regime": "pa2023",
+      "key": "UKH",
+      "lots": 1185,
+      "procedures": 981,
+      "single": 114,
+      "median": 5,
+      "pct": 9.6,
+      "lo": 8.1,
+      "hi": 11.4
+    },
+    {
+      "regime": "pa2023",
+      "key": "UKI",
+      "lots": 1331,
+      "procedures": 1074,
+      "single": 135,
+      "median": 5,
+      "pct": 10.1,
+      "lo": 8.6,
+      "hi": 11.9
+    },
+    {
+      "regime": "pa2023",
+      "key": "UKJ",
+      "lots": 1402,
+      "procedures": 1151,
+      "single": 152,
+      "median": 5,
+      "pct": 10.8,
+      "lo": 9.3,
+      "hi": 12.6
+    },
+    {
+      "regime": "pa2023",
+      "key": "UKK",
+      "lots": 1165,
+      "procedures": 957,
+      "single": 113,
+      "median": 5,
+      "pct": 9.7,
+      "lo": 8.1,
+      "hi": 11.5
+    },
+    {
+      "regime": "pa2023",
+      "key": "UKL",
+      "lots": 774,
+      "procedures": 612,
+      "single": 115,
+      "median": 3,
+      "pct": 14.9,
+      "lo": 12.5,
+      "hi": 17.5
+    },
+    {
+      "regime": "pa2023",
+      "key": "UKN",
+      "lots": 687,
+      "procedures": 449,
+      "single": 196,
+      "median": 2,
+      "pct": 28.5,
+      "lo": 25.3,
+      "hi": 32
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKC",
+      "lots": 330,
+      "procedures": 267,
+      "single": 52,
+      "median": 3,
+      "pct": 15.8,
+      "lo": 12.2,
+      "hi": 20.1
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKD",
+      "lots": 558,
+      "procedures": 466,
+      "single": 85,
+      "median": 4,
+      "pct": 15.2,
+      "lo": 12.5,
+      "hi": 18.5
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKE",
+      "lots": 579,
+      "procedures": 465,
+      "single": 121,
+      "median": 3,
+      "pct": 20.9,
+      "lo": 17.8,
+      "hi": 24.4
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKF",
+      "lots": 425,
+      "procedures": 342,
+      "single": 47,
+      "median": 4,
+      "pct": 11.1,
+      "lo": 8.4,
+      "hi": 14.4
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKG",
+      "lots": 512,
+      "procedures": 398,
+      "single": 64,
+      "median": 4,
+      "pct": 12.5,
+      "lo": 9.9,
+      "hi": 15.6
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKH",
+      "lots": 642,
+      "procedures": 505,
+      "single": 61,
+      "median": 4,
+      "pct": 9.5,
+      "lo": 7.5,
+      "hi": 12
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKI",
+      "lots": 802,
+      "procedures": 633,
+      "single": 97,
+      "median": 4,
+      "pct": 12.1,
+      "lo": 10,
+      "hi": 14.5
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKJ",
+      "lots": 681,
+      "procedures": 505,
+      "single": 82,
+      "median": 4,
+      "pct": 12,
+      "lo": 9.8,
+      "hi": 14.7
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKK",
+      "lots": 574,
+      "procedures": 443,
+      "single": 83,
+      "median": 4,
+      "pct": 14.5,
+      "lo": 11.8,
+      "hi": 17.6
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKL",
+      "lots": 565,
+      "procedures": 415,
+      "single": 128,
+      "median": 3,
+      "pct": 22.7,
+      "lo": 19.4,
+      "hi": 26.3
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKM",
+      "lots": 1852,
+      "procedures": 1255,
+      "single": 344,
+      "median": 3,
+      "pct": 18.6,
+      "lo": 16.9,
+      "hi": 20.4
+    },
+    {
+      "regime": "pcr2015",
+      "key": "UKN",
+      "lots": 793,
+      "procedures": 453,
+      "single": 157,
+      "median": 4,
+      "pct": 19.8,
+      "lo": 17.2,
+      "hi": 22.7
+    }
+  ],
+  "finalStage": {
+    "sectors": [
+      {
+        "regime": "pa2023",
+        "key": "34",
+        "lots": 164,
+        "procedures": 137,
+        "single": 52,
+        "median": 2.5,
+        "pct": 31.7,
+        "lo": 25.1,
+        "hi": 39.2
+      },
+      {
+        "regime": "pa2023",
+        "key": "45",
+        "lots": 1196,
+        "procedures": 984,
+        "single": 157,
+        "median": 4.5,
+        "pct": 13.1,
+        "lo": 11.3,
+        "hi": 15.2
+      },
+      {
+        "regime": "pa2023",
+        "key": "48",
+        "lots": 182,
+        "procedures": 167,
+        "single": 29,
+        "median": 3,
+        "pct": 15.9,
+        "lo": 11.3,
+        "hi": 21.9
+      },
+      {
+        "regime": "pa2023",
+        "key": "50",
+        "lots": 522,
+        "procedures": 403,
+        "single": 109,
+        "median": 3,
+        "pct": 20.9,
+        "lo": 17.6,
+        "hi": 24.6
+      },
+      {
+        "regime": "pa2023",
+        "key": "55",
+        "lots": 265,
+        "procedures": 199,
+        "single": 63,
+        "median": 3,
+        "pct": 23.8,
+        "lo": 19,
+        "hi": 29.3
+      },
+      {
+        "regime": "pa2023",
+        "key": "60",
+        "lots": 325,
+        "procedures": 119,
+        "single": 75,
+        "median": 3,
+        "pct": 23.1,
+        "lo": 18.8,
+        "hi": 28
+      },
+      {
+        "regime": "pa2023",
+        "key": "66",
+        "lots": 359,
+        "procedures": 143,
+        "single": 102,
+        "median": 3,
+        "pct": 28.4,
+        "lo": 24,
+        "hi": 33.3
+      },
+      {
+        "regime": "pa2023",
+        "key": "71",
+        "lots": 571,
+        "procedures": 467,
+        "single": 82,
+        "median": 5,
+        "pct": 14.4,
+        "lo": 11.7,
+        "hi": 17.5
+      },
+      {
+        "regime": "pa2023",
+        "key": "72",
+        "lots": 330,
+        "procedures": 314,
+        "single": 42,
+        "median": 4,
+        "pct": 12.7,
+        "lo": 9.6,
+        "hi": 16.8
+      },
+      {
+        "regime": "pa2023",
+        "key": "73",
+        "lots": 160,
+        "procedures": 126,
+        "single": 22,
+        "median": 4,
+        "pct": 13.8,
+        "lo": 9.3,
+        "hi": 19.9
+      },
+      {
+        "regime": "pa2023",
+        "key": "77",
+        "lots": 195,
+        "procedures": 108,
+        "single": 30,
+        "median": 4,
+        "pct": 15.4,
+        "lo": 11,
+        "hi": 21.1
+      },
+      {
+        "regime": "pa2023",
+        "key": "79",
+        "lots": 926,
+        "procedures": 778,
+        "single": 162,
+        "median": 4,
+        "pct": 17.5,
+        "lo": 15.2,
+        "hi": 20.1
+      },
+      {
+        "regime": "pa2023",
+        "key": "80",
+        "lots": 424,
+        "procedures": 327,
+        "single": 96,
+        "median": 3,
+        "pct": 22.6,
+        "lo": 18.9,
+        "hi": 26.9
+      },
+      {
+        "regime": "pa2023",
+        "key": "85",
+        "lots": 1125,
+        "procedures": 867,
+        "single": 287,
+        "median": 3,
+        "pct": 25.5,
+        "lo": 23.1,
+        "hi": 28.1
+      },
+      {
+        "regime": "pa2023",
+        "key": "90",
+        "lots": 756,
+        "procedures": 543,
+        "single": 170,
+        "median": 3,
+        "pct": 22.5,
+        "lo": 19.7,
+        "hi": 25.6
+      },
+      {
+        "regime": "pa2023",
+        "key": "98",
+        "lots": 199,
+        "procedures": 162,
+        "single": 56,
+        "median": 2,
+        "pct": 28.1,
+        "lo": 22.4,
+        "hi": 34.8
+      }
+    ],
+    "regions": [
+      {
+        "regime": "pa2023",
+        "key": "UKC",
+        "lots": 1025,
+        "procedures": 756,
+        "single": 130,
+        "median": 4,
+        "pct": 12.7,
+        "lo": 10.8,
+        "hi": 14.9
+      },
+      {
+        "regime": "pa2023",
+        "key": "UKD",
+        "lots": 1292,
+        "procedures": 1082,
+        "single": 177,
+        "median": 4,
+        "pct": 13.7,
+        "lo": 11.9,
+        "hi": 15.7
+      },
+      {
+        "regime": "pa2023",
+        "key": "UKE",
+        "lots": 1087,
+        "procedures": 885,
+        "single": 207,
+        "median": 4,
+        "pct": 19,
+        "lo": 16.8,
+        "hi": 21.5
+      },
+      {
+        "regime": "pa2023",
+        "key": "UKF",
+        "lots": 1098,
+        "procedures": 915,
+        "single": 158,
+        "median": 4,
+        "pct": 14.4,
+        "lo": 12.4,
+        "hi": 16.6
+      },
+      {
+        "regime": "pa2023",
+        "key": "UKG",
+        "lots": 1091,
+        "procedures": 870,
+        "single": 172,
+        "median": 4,
+        "pct": 15.8,
+        "lo": 13.7,
+        "hi": 18
+      },
+      {
+        "regime": "pa2023",
+        "key": "UKH",
+        "lots": 1198,
+        "procedures": 981,
+        "single": 163,
+        "median": 4,
+        "pct": 13.6,
+        "lo": 11.8,
+        "hi": 15.7
+      },
+      {
+        "regime": "pa2023",
+        "key": "UKI",
+        "lots": 1330,
+        "procedures": 1073,
+        "single": 205,
+        "median": 4,
+        "pct": 15.4,
+        "lo": 13.6,
+        "hi": 17.5
+      },
+      {
+        "regime": "pa2023",
+        "key": "UKJ",
+        "lots": 1406,
+        "procedures": 1150,
+        "single": 236,
+        "median": 4,
+        "pct": 16.8,
+        "lo": 14.9,
+        "hi": 18.8
+      },
+      {
+        "regime": "pa2023",
+        "key": "UKK",
+        "lots": 1169,
+        "procedures": 956,
+        "single": 185,
+        "median": 4,
+        "pct": 15.8,
+        "lo": 13.8,
+        "hi": 18
+      },
+      {
+        "regime": "pa2023",
+        "key": "UKL",
+        "lots": 774,
+        "procedures": 612,
+        "single": 134,
+        "median": 3,
+        "pct": 17.3,
+        "lo": 14.8,
+        "hi": 20.1
+      },
+      {
+        "regime": "pa2023",
+        "key": "UKN",
+        "lots": 687,
+        "procedures": 449,
+        "single": 235,
+        "median": 2,
+        "pct": 34.2,
+        "lo": 30.8,
+        "hi": 37.8
+      }
+    ]
+  },
+  "attrition": {
+    "lots": 9247,
+    "fewer_at_final": 2538,
+    "multi_to_single": 686
+  },
+  "perProcedure": [
+    {
+      "regime": "pa2023",
+      "procedures": 7104,
+      "all_single": 794
+    },
+    {
+      "regime": "pcr2015",
+      "procedures": 6070,
+      "all_single": 995
+    }
+  ]
+}

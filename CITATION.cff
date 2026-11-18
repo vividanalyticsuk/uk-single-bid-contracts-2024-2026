@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Single-Bid Contracts in UK Public Procurement (2024-2026): Open Dataset"
+message: "If you use this dataset or methodology, please cite Tenderline.uk as below."
+type: dataset
+authors:
+  - name: "Tenderline.uk (Vivid Analytics Ltd)"
+    website: "https://tenderline.uk"
+date-released: "2026-10-14"
+url: "https://tenderline.uk/research/single-bid-contracts-2024-2026"
+repository-code: "https://github.com/vividanalyticsuk/uk-single-bid-contracts-2024-2026"
+license: CC-BY-4.0
+keywords:
+  - uk-procurement
+  - single-bid
+  - public-procurement
+  - ocds
+  - open-data
+  - procurement-act-2023

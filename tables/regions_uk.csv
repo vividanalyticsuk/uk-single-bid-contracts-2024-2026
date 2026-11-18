@@ -1,0 +1,24 @@
+regime,regime_label,key,label,lots,procedures,single_bid_lots,single_bid_pct,ci95_low,ci95_high,median_bids
+pa2023,Procurement Act 2023,UKC,North East,1020,756,101,9.9,8.2,11.9,4
+pa2023,Procurement Act 2023,UKD,North West,1288,1082,116,9,7.6,10.7,5
+pa2023,Procurement Act 2023,UKE,Yorkshire and The Humber,1093,887,120,11,9.3,13,5
+pa2023,Procurement Act 2023,UKF,East Midlands,1093,915,116,10.6,8.9,12.6,5
+pa2023,Procurement Act 2023,UKG,West Midlands,1082,870,102,9.4,7.8,11.3,5
+pa2023,Procurement Act 2023,UKH,East of England,1185,981,114,9.6,8.1,11.4,5
+pa2023,Procurement Act 2023,UKI,London,1331,1074,135,10.1,8.6,11.9,5
+pa2023,Procurement Act 2023,UKJ,South East,1402,1151,152,10.8,9.3,12.6,5
+pa2023,Procurement Act 2023,UKK,South West,1165,957,113,9.7,8.1,11.5,5
+pa2023,Procurement Act 2023,UKL,Wales,774,612,115,14.9,12.5,17.5,3
+pa2023,Procurement Act 2023,UKN,Northern Ireland,687,449,196,28.5,25.3,32,2
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKC,North East,330,267,52,15.8,12.2,20.1,3
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKD,North West,558,466,85,15.2,12.5,18.5,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKE,Yorkshire and The Humber,579,465,121,20.9,17.8,24.4,3
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKF,East Midlands,425,342,47,11.1,8.4,14.4,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKG,West Midlands,512,398,64,12.5,9.9,15.6,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKH,East of England,642,505,61,9.5,7.5,12,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKI,London,802,633,97,12.1,10,14.5,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKJ,South East,681,505,82,12,9.8,14.7,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKK,South West,574,443,83,14.5,11.8,17.6,4
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKL,Wales,565,415,128,22.7,19.4,26.3,3
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKM,Scotland,1852,1255,344,18.6,16.9,20.4,3
+pcr2015,Public Contracts Regulations 2015 & Scottish equivalent,UKN,Northern Ireland,793,453,157,19.8,17.2,22.7,4
